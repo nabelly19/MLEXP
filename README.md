@@ -1,2 +1,2 @@
-# MLEXP
-Machine Learning Experimentation Platform
+# MLEXP 
+Machine Learning Experimentation Platform 💡
